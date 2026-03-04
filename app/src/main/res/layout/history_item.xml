@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/textHistory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="7dp"
+        android:paddingTop="7dp"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:textSize="22sp"
+        android:textColor="#212121"/>
+
+</com.google.android.material.card.MaterialCardView>
